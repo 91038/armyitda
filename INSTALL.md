@@ -29,7 +29,7 @@
 
 ### 1단계: 소스코드 다운로드
 ```bash
-git clone https://github.com/your-repository/military-platform.git
+git clone https://github.com/91038/armyitda.git
 cd military-platform
 ```
 
